@@ -13,5 +13,11 @@
         android:layout_height="wrap_content"
         android:src="@drawable/ic_playstore_icon"/>
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PhotoPie"
+        android:textColor="#fff"
+        />
 
 </RelativeLayout>
