@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644893457596",
+    "project_id": "photopie-89492",
+    "storage_bucket": "photopie-89492.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644893457596:android:0bf05b77d7f5efb1bf64b9",
+        "android_client_info": {
+          "package_name": "com.jyoti.photopie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644893457596-bfd2hl3t52650k3as8vscnkj4ki5a21q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEVUhP6ZwdSQuIVGysWiUyA7kFclZUiY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644893457596-bfd2hl3t52650k3as8vscnkj4ki5a21q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
